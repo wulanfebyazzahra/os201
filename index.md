@@ -5,6 +5,6 @@
 
 HALOO! Selamat Datang di GitHub Page Aku!
 
-* [URL](URLs/)
+* [URLs](URLs/)
 
 Jolan Tru :)
