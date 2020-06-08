@@ -11,11 +11,11 @@ I am an IT student in Universitas Indonesia focused in information system.
 
 
 ### Important Links
-[URL Penting](URLs/)
+[Important URLs](URLs/)
 
 ### Contact Me
-[Instagram](https://instagram.com/bulanfeb)
-[LinkedIn](https://www.linkedin.com/in/wulan-febyazzahra-86561a100/)
+* [Instagram](https://instagram.com/bulanfeb)
+* [LinkedIn](https://www.linkedin.com/in/wulan-febyazzahra-86561a100/)
 
 
 Jolan Tru 😊
