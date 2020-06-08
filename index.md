@@ -1,6 +1,5 @@
 ---
 ---
-
 # Wulan Febyazzahra's Page
 
 Selamat Datang di GitHub Page Wulan!
@@ -11,7 +10,8 @@ I am an IT student in Universitas Indonesia focused in information system.
 
 
 ### Important Links
-[Important URLs](URLs/)
+* [URLs Operating System](URLs/)
+
 
 ### Contact Me
 * [Instagram](https://instagram.com/bulanfeb)
