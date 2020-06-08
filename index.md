@@ -7,4 +7,4 @@ HALOO! Selamat Datang di GitHub Page Aku!
 
 * [URLs](URL/)
 
-- Jolan Tru :) -
+Jolan Tru :)
